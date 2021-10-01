@@ -5,5 +5,5 @@
     Date of lastmodification : 01-10-2021
     Name of the modifing Auther:Mayank Malviya
 '''
-NAME=input("enter the name: ")
+NAME=str(input("enter your name: "))
 print("Good Afternoon",NAME)
